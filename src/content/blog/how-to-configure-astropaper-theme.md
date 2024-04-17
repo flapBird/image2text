@@ -2,14 +2,14 @@
 author: Sat Naing
 pubDatetime: 2022-09-23T04:58:53Z
 modDatetime: 2024-01-15T13:05:56.066Z
-title: How to configure AstroPaper theme
+title: What can this image to text tool do?
 slug: how-to-configure-astropaper-theme
 featured: true
 draft: false
 tags:
   - configuration
   - docs
-description: How you can make AstroPaper theme absolutely yours.
+description: It can convert any image into text, and it can also analyze and organize the image content.
 ---
 
 AstroPaper is a highly customizable Astro blog theme. With AstroPaper, you can customize everything according to your personal taste. This article will explain how you can make some customizations easily in the config file.

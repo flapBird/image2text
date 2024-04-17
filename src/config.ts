@@ -2,10 +2,8 @@ import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
   website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  desc: "Image to Text Online is a free online tool for extracting text from images. It can convert any image into text, and it can also analyze and organize the image content.",
+  title: "Image to Text Online | Extract Text from Images Free",
   lightAndDarkMode: true,
   postPerPage: 3,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes

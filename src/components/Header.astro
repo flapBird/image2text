@@ -24,7 +24,7 @@ const { activeNav } = Astro.props;
               height={LOGO_IMAGE.height}
             />
           ) : (
-            SITE.title
+            <h1>Image to Text</h1>
           )
         }
       </a>
@@ -55,6 +55,7 @@ const { activeNav } = Astro.props;
           </svg>
         </button>
         <ul id="menu-items" class="display-none sm:flex">
+          <!--
           <li>
             <a href="/posts/" class={activeNav === "posts" ? "active" : ""}>
               Posts
@@ -65,6 +66,7 @@ const { activeNav } = Astro.props;
               Tags
             </a>
           </li>
+
           <li>
             <a href="/about/" class={activeNav === "about" ? "active" : ""}>
               About
@@ -89,6 +91,7 @@ const { activeNav } = Astro.props;
               <span class="sr-only">Search</span>
             </LinkButton>
           </li>
+            -->
           {
             SITE.lightAndDarkMode && (
               <li>

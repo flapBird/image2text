@@ -2,15 +2,13 @@
 author: Sat Naing
 pubDatetime: 2022-09-23T15:22:00Z
 modDatetime: 2023-12-21T09:12:47.400Z
-title: Adding new posts in AstroPaper theme
+title: What are the advantages of this tool?
 slug: adding-new-posts-in-astropaper-theme
 featured: true
 draft: false
 tags:
   - docs
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+description: Free and efficient, keep the content formatted as much as possible.
 ---
 
 Here are some rules/recommendations, tips & ticks for creating new posts in AstroPaper blog theme.
