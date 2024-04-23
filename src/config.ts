@@ -1,7 +1,7 @@
 import type { Site, SocialObjects } from "./types";
 
 export const SITE: Site = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
+  website: "https://imagetotext.cfd", // replace this with your deployed domain
   desc: "Image to Text Online is a free online tool for extracting text from images. It can convert any image into text, and it can also analyze and organize the image content.",
   title: "Image to Text Online | Extract Text from Images Free",
   lightAndDarkMode: true,
