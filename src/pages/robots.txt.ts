@@ -3,7 +3,6 @@ import { SITE } from "@config";
 
 const robots = `
 User-agent: *
-Sitemap: ${new URL("sitemap-index.xml", SITE.website).href}
 `.trim();
 
 export const GET: APIRoute = () =>
